@@ -20,6 +20,7 @@ html {
 }
 
 .page__title {
+  padding-top: 160px;
   z-index: 1;
   max-width: 739px;
   margin: 0 auto;
@@ -40,7 +41,7 @@ html {
   content: "На самом деле нет. \AВажнее &mdash; научиться ошибаться.";
   white-space: pre;
   position: absolute;
-  top: 130px;
+  top: 230px;
   right: 20px;
   border: 2px solid #000;
   border-radius: 20px;
